@@ -43,14 +43,14 @@ return <section className="w-full pt-36 md:pt-48 pb-10">
         </div>
 
         <div className="flex justify-center space-x-4">
-            <a href="/dasboard">
+            <a href="/dashboard">
             <Button size="lg" className="px-8">
                 Get Started
             </Button>
             </a>
-            <a href="https://www.youtube.com/roadsidecoder">
+            <a href="https://www.youtube.com">
             <Button size="lg" className="px-8" variant="outline">
-                Get Started
+                Demo
             </Button>
             </a>
         </div>
